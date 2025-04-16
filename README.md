@@ -40,7 +40,7 @@ A beautiful and responsive currency converter Android app built with **Jetpack C
 
 ## 📸 Preview
 
-*(Add screenshots of the app here if available)*
+![image](https://github.com/user-attachments/assets/0b427158-f725-491d-ba12-2d86fe9a0f46)
 
 ---
 
